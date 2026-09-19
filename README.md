@@ -25,7 +25,7 @@ Native Android application for shared household management developed with Kotlin
 
 **Technologies:** Kotlin • Android Studio • Firebase • MVVM
 
-🔗 https://github.com/dDez21/Roomie
+🔗 https://github.com/dDez21/Roomie-Android-Mobile
 
 ---
 
