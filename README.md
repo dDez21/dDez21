@@ -45,7 +45,7 @@ Cross-platform implementation of Roomie developed using Flutter.
 
 **Technologies:** Flutter • Dart • Firebase
 
-🔗 https://github.com/dDez21/roomie_flutter
+🔗 https://github.com/dDez21/Roomie-Flutter-Mobile
 
 ---
 
